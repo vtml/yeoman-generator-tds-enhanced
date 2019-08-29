@@ -1,0 +1,49 @@
+{
+  "_from": "generator-isobar",
+  "_id": "generator-isobar@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-OcyLoFG27d14qAWvEn7enntSvqI=",
+  "_location": "/generator-isobar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "generator-isobar",
+    "name": "generator-isobar",
+    "escapedName": "generator-isobar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/generator-isobar/-/generator-isobar-0.0.1.tgz",
+  "_shasum": "39cc8ba051b6eddd78a805af127ede9e7b52bea2",
+  "_spec": "generator-isobar",
+  "_where": "C:\\WINDOWS\\system32",
+  "author": {
+    "name": "jigna.patel@isobar.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "mkdirp": "^0.5.1",
+    "node-uuid": "^1.4.7",
+    "yeoman-generator": "^0.24.1",
+    "yosay": "^1.2.0"
+  },
+  "deprecated": false,
+  "description": "Sitecore Helix generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "sitecore",
+    "tds",
+    "yeoman-generator"
+  ],
+  "main": "generators\\index.js",
+  "name": "generator-isobar",
+  "version": "0.0.1"
+}
